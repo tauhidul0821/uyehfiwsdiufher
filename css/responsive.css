@@ -1,0 +1,349 @@
+/*
+@media (min-width: 320px) and (max-width: 767px) {
+    .slider-area .owl-dot {
+        margin: -65px 2px;
+    }
+    .shape2::before {
+        left: 30%;
+        top: 106%;
+    }
+    .single-service-part i {
+        font-size: 55px;
+        color: #1ABC9C;
+        margin: 0 auto;
+    }
+    .overlay1 {
+        width: 88.5%;
+    }
+}
+*/
+
+@media (max-width: 767px) {
+    h3 {
+        font-size: 22px !important;
+    }
+    .title-text {
+        font-size: 26px;
+    }
+    p {
+        font-size: 13px !important;
+    }
+    a.logos img {
+        margin-left: 15px;
+    }
+    a.logos img {
+        width: 75%;
+    }
+    .navbar-default .navbar-nav > li > a {
+        padding: 10px 15px;
+    }
+    .slider-info p {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .slider-wraper .owl-nav div {
+        height: 30px;
+        width: 30px;
+        font-size: 20px;
+        line-height: 42px;
+    }
+    .slider-area .owl-dot {
+
+        margin: -30px 2px;
+    }
+    .button-holder {
+        width: 80%;
+    }
+    .button-holder a {
+        padding: 8px 10px;
+        font-size: 13px;
+    }
+    .about-skill {
+        margin: 30px 0;
+    }
+    .Progress-dark-text h3 {
+        font-size: 15px !important;
+    }
+    .Progress-text h3 {
+        font-size: 15px !important;
+    }
+    .service-area {
+        padding: 30px;
+    }
+    .event-priceing .best-offer p {
+        font-size: 25px !important;
+    }
+    .price-bg {
+        padding: 30px;
+    }
+    .event-priceing .plan-price sup {
+        font-size: 30px;
+        margin-right: 10px;
+    }
+    .price-head h2.shape2::before {
+        left: 41.4%;
+        top: 106%;
+    }
+    .shape2::before {
+        left: 41.4%;
+        top: 106%;
+    }
+    sup {
+        top: 0;
+    }
+    .event-priceing .plan-name h6:first-child,
+    .event-priceing .plan-name h6:last-child {
+        padding-top: 0px;
+    }
+    .event-priceing .plan-name h6 {
+        font-size: 22px;
+    }
+    .event-priceing {
+        margin-bottom: 15px;
+    }
+    .event-priceing .plan-details ul {
+        margin: 0 20% 45px 40%;
+        max-width: 200px;
+    }
+    .event-priceing .plan-details li {
+        font-size: 15px;
+    }
+    .event-priceing .plan-details .register-now-btn {
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    .event-priceing {
+        border-right: unset;
+        border-bottom: 2px solid #ffffff;
+    }
+    .event-priceing .inner-pricing .plan-price p {
+
+        font-size: 35px !important;
+    }
+    #team {
+        padding: 30px;
+    }
+    .team-slick {
+        margin-top: 30px;
+    }
+    #portfolio {
+        margin: 40px 0;
+    }
+    .filter-container {
+        margin: 15px 0;
+    }
+    .portfolio_fillter ul.filter > li {
+        font-size: 15px;
+        line-height: 40px;
+    }
+    div#project_mix {
+        text-align: center;
+    }
+    #testimonial-full {
+        margin-top: 30px;
+    }
+    #testimonial {
+        height: auto;
+        margin-top: 65px;
+        margin-bottom: 30px;
+        padding-bottom: 30px;
+    }
+    .testimonial_item h2 {
+        font-size: 20px;
+    }
+    .client_feedback {
+        height: unset;
+        width: 90%;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .testimonial_item p {
+        padding-bottom: 20px;
+        padding-right: 0px;
+    }
+    .blog {
+        padding-top: 30px;
+        margin-bottom: 15px;
+    }
+    .single-blog {
+        margin-bottom: 30px;
+    }
+    #contact-full {
+        margin-bottom: 30px;
+    }
+    .cont-group {
+        margin-bottom: 50px;
+    }
+    .footer_part {
+        margin-top: -20%;
+        padding-top: 0%;
+    }
+    .about-image img {
+        margin: 8% auto 0;
+    }
+    .single-service-part i {
+        font-size: 55px;
+        padding-left: 46%;
+        color: #1ABC9C;
+    }
+    .overlay1 {
+        position: absolute;
+        background: rgba(0, 0, 0, 0.7);
+        width: 91.5%;
+        height: 75px;
+        transition: .5s ease;
+        margin-top: -41%;
+        opacity: 0;
+        bottom: 0;
+    }
+    .cont-inline .cont-group textarea {
+
+        margin-top: -6%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    a.logos img {
+        width: 75%;
+        margin-left: 15px;
+    }
+    .navbar-default .navbar-nav > li > a {
+        padding: 15px 10px;
+    }
+    .slider-info p {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .slider-wraper .owl-nav div {
+        height: 35px;
+        width: 35px;
+        font-size: 25px;
+        line-height: 45px;
+    }
+    .button-holder {
+        width: 90%;
+    }
+    .button-holder a {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+    .about-skill {
+        margin: 40px 0;
+    }
+    .about-skill .paragraph {
+        margin-bottom: 20px;
+    }
+    #counter .counter_banner .bnr_overly {
+        padding: 40px 70px;
+    }
+    .service-area {
+        padding: 40px;
+    }
+    .progress {
+        margin-bottom: 10px;
+    }
+    .price-head {
+        margin-bottom: 40px;
+    }
+    .price-bg {
+        padding: 40px;
+    }
+    .event-priceing .plan-details li {
+        font-size: 15px;
+        cursor: pointer;
+    }
+    .slider-area .owl-dot {
+        margin: -50px 2px;
+    }
+    .event-priceing .plan-details .register-now-btn {
+        padding: 12px 25px;
+        font-size: 15px;
+    }
+    #team {
+        padding: 40px 50px;
+    }
+    .team-slick {
+        margin-top: 90px;
+    }
+    #portfolio {
+        margin-top: 80px;
+    }
+    .filter-container {
+        margin: 25px 0;
+    }
+    .portfolio_fillter ul.filter > li {
+        font-size: 15px;
+        line-height: 40px;
+    }
+    div#project_mix {
+        text-align: center;
+    }
+    #testimonial-full {
+        margin-top: 40px;
+    }
+    #testimonial {
+        height: auto;
+        margin-top: 75px;
+        margin-bottom: 40px;
+        padding-bottom: 40px;
+    }
+
+
+    .shape2::before {
+        left: 40%
+    }
+    .testimonial_item h2 {
+        font-size: 20px;
+    }
+    .client_feedback {
+        height: unset;
+        width: 90%;
+        margin-top: 30px;
+        margin-left: 20px;
+    }
+    .testimonial_item p {
+        padding-bottom: 20px;
+        padding-right: 0px;
+    }
+    .blog {
+        padding-top: 40px;
+        margin-bottom: 15px;
+    }
+    .single-blog {
+        margin-bottom: 40px;
+    }
+    #contact-full {
+        margin-bottom: 40px;
+    }
+    .form {
+        padding: 50px 10px 90px 10px;
+    }
+    .address {
+        margin-top: 3%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1280px) {
+    a.logos img {
+        width: 80%;
+        margin-left: 15px;
+    }
+    .button-holder {
+        width: 90%;
+    }
+    .client_feedback {
+        height: auto;
+        width: 65%;
+        padding: 35px 40px;
+        margin-left: 0%;
+    }
+    .address {
+        margin-top: 2.5%;
+    }
+    .slider-area .owl-dot {
+        margin: -50px 2px;
+    }
+    .overlay1 {
+        width: 87.5%;
+    }
+}
